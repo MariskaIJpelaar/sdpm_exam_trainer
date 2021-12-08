@@ -21,6 +21,6 @@ class QuestionMaslow(Question):
 		printc(Color.BLU, '4.')
 		points += self.check('safety needs')
 		printc(Color.BLU, '5.')
-		points += self.check('psychological needs')
+		points += self.check('physiological needs')
 
 		return points / questions
