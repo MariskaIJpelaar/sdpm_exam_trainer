@@ -1,7 +1,7 @@
 from random import randrange, random
 
-from grader.core.acronyms import QuestionAcronym
-from grader.utils.printer import *
+from sdpm_exam_trainer.core.acronyms import QuestionAcronym
+from sdpm_exam_trainer.utils.printer import *
 
 class QuestionVUCA(QuestionAcronym):
 	def __init__(self):

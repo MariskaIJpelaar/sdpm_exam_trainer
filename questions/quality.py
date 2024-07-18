@@ -1,7 +1,7 @@
 from random import randrange, random
 
-from grader.core.defs import QuestionDefs
-from grader.utils.printer import *
+from sdpm_exam_trainer.core.defs import QuestionDefs
+from sdpm_exam_trainer.utils.printer import *
 
 class QuestionQualityDefs(QuestionDefs):
 	def __init__(self):

@@ -1,4 +1,4 @@
-from grader.utils.printer import *
+from sdpm_exam_trainer.utils.printer import *
 
 class Question(object):
 	"""An abstract Question class which defines the functions to implement by a question"""

@@ -1,8 +1,8 @@
 from random import randrange
 from math import sqrt
 
-from grader.core.question import Question
-from grader.utils.printer import *
+from sdpm_exam_trainer.core.question import Question
+from sdpm_exam_trainer.utils.printer import *
 
 class QuestionPERT(Question):
 	def __init__(self):

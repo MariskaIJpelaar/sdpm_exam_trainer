@@ -1,5 +1,5 @@
-from grader.core.question import Question
-from grader.utils.printer import *
+from sdpm_exam_trainer.core.question import Question
+from sdpm_exam_trainer.utils.printer import *
 
 class QuestionMaslow(Question):
 	def __init__(self):
